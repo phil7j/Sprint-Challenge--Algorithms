@@ -119,7 +119,7 @@ class SortingRobot:
                         self.move_right()
                 # if self.can_move_right() == False:
                 #     break
-            # Once robot can't move right anymore, robot moves all the way back to i(starting point)
+            # Once robot can't move right anymore, robot moves all the way back to i(starting point))
             while self._position > j:
                 self.move_left()
         return self._list
