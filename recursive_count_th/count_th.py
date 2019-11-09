@@ -24,4 +24,4 @@ def count_th(word):
     return count
 
 
-print(count_th("t"))
+print(count_th("THtHThth"))
